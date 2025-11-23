@@ -1,0 +1,5 @@
+{
+  "name": "StarGazer: 별자리 관측 달력",
+  "description": "1월부터 12월까지 계절별 최고의 별자리와 성운을 안내하는 아름다운 관측 가이드입니다. Gemini AI를 통해 각 별자리의 상세한 신화와 관측 팁을 제공합니다.",
+  "requestFramePermissions": []
+}
